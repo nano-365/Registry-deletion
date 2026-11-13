@@ -1,0 +1,2 @@
+# Registry-deletion
+DELETING ALL REGISTRY VALUES
